@@ -1,0 +1,9 @@
+Inspired:
+https://github.com/federatedmedia/cronviz
+-> Branch: https://github.com/alpaker/cronviz
+
+HTML Timeline:
+http://www.simile-widgets.org/timeline/
+
+Simple Crontab Parser:
+http://staff.washington.edu/corey/tools/crontab-timeline
